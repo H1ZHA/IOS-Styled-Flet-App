@@ -30,7 +30,7 @@ Run the app:
 
 ```bash
 python calculator.py
-```bash
+```
 📱 UI Features
 Round buttons with proper shadows
 
