@@ -23,12 +23,14 @@ Modern UI - Accurate iOS calculator design
 🚀 Quick Start
 Install requirements:
 
-bash
+```bash
 pip install flet
+```
 Run the app:
 
-bash
+```bash
 python calculator.py
+```bash
 📱 UI Features
 Round buttons with proper shadows
 
